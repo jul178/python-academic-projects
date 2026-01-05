@@ -1,0 +1,11 @@
+#data from https://iqcertificate.org/famous-people-iq-score
+Elon Musk,165
+Mark Zuckerberg,152
+Will Smith,157
+Marilyn vos Savant,186
+Judith Polgar,170
+Quentin Tarantino,163
+Bill Gates,160
+Conan O'Brien,160
+Emma Watson,132
+Barack Obama,137

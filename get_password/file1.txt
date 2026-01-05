@@ -1,0 +1,14 @@
+Random garbage line 1
+More noise here 12345
+   Yet another line of junk
+	Tabs and spaces everywhere
+
+#
+D  N  5  A  u
+ I  T  A  A
+  1  E  A  I
+#
+1
+#
+file3.txt
+#

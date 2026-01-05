@@ -1,0 +1,16 @@
+Noise at the start 111
+   More garbage
+	Tabs here too
+
+#
+Q  v  m  K  Y
+ x  L  5  8
+  9  2  s  r
+#
+3
+#
+file2.txt
+#
+Garbage at the end now
+   Final junk lines
+Random stuff 42

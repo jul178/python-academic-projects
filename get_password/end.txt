@@ -1,0 +1,14 @@
+Start garbage line
+More noise 777
+
+#
+7  2  R  U  x
+ H  J  5  v
+  c  q  t  W
+#
+4
+#
+END
+#
+End garbage here
+   Final noise

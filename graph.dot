@@ -1,0 +1,4 @@
+digraph {
+note1 -> note2
+note2 -> note1
+}
